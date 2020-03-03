@@ -1,0 +1,6 @@
+Last login: Mon Mar  2 23:54:07 on ttys000
+Princes-MBP:~ Prince$ cd Desktop/
+Princes-MBP:Desktop Prince$ javac HelloWorld.java
+Princes-MBP:Desktop Prince$ java HelloWorld
+Hello World!
+Princes-MBP:Desktop Prince$ 
